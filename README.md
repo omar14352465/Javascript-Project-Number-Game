@@ -3,6 +3,8 @@
 A retro-style logic game built with Vanilla JavaScript. The goal is to guess the secret number between 1 and 20, but be careful—you only have **5 tries**!
 
 ## 📸 Preview
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/859f839e-ff1e-4f97-ad9b-8bab21e647b9" />
+
 ## 🚀 Live Demo
 [View Live Demo](https://your-username.github.io/your-repo-name)
 
